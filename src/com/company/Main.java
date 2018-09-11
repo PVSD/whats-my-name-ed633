@@ -10,6 +10,6 @@ public class Main {
         String fName = kbReader.nextLine();
         System.out.println("What is your last name?");
         String lName = kbReader.nextLine();
-        System.out.println("Your name is " + fName + " " + lName + ".");
+        System.out.println("Your name is " + fName + " " + lName + "!");
     }
 }
